@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<transactions terminalId="21374">
+    <response>
+        <id>1</id>
+        <deposit>33227780</deposit>
+        <type>deposit</type>
+        <depositBalance>4000</depositBalance>
+        <message>Transaction successfully done</message>
+    </response>
+    <response>
+        <id>2</id>
+        <deposit>35527439</deposit>
+        <type>withdraw</type>
+        <message>initial amount is lower than withdraw requested amount.</message>
+    </response>
+</transactions>
+
+</transactions>

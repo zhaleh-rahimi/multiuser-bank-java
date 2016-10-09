@@ -1,0 +1,28 @@
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+SEVERE: Sending request from ATM with id #21375 to Server
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+SEVERE: Sending request from ATM with id #21374 to Server
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+FINE: request 1 sent to server
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+FINE: request 1 sent to server
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+FINE: response 1 received from server
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+FINE: response 1 received from server
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+FINE: request 2 sent to server
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+FINE: request 2 sent to server
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+FINE: response 2 received from server
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+INFO: 21375, [id: 1, deposit: 33227780, deposit Balance: 7000, type: deposit, Transaction successfully done, id: 2, deposit: 35527439, deposit Balance: 0, type: withdraw, Transaction successfully done]
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+SEVERE: got response for terminal 21375 from Server.
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+FINE: response 2 received from server
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+INFO: 21374, [id: 1, deposit: 33227780, deposit Balance: 4000, type: deposit, Transaction successfully done, id: 2, deposit: 35527439, deposit Balance: null, type: withdraw, initial amount is lower than withdraw requested amount.]
+Oct 09, 2016 5:48:04 PM terminal.TerminalSocket run
+SEVERE: got response for terminal 21374 from Server.
