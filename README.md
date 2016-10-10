@@ -1,5 +1,5 @@
 # mySecondApp
-## An app to access the bank account of one customer to deposit or withdraw some amount.
+## An app to access the bank account of a customer to deposit or withdraw some amount.
 ## functionalities are :
 - parsing a xml file
 - parsing a json file
